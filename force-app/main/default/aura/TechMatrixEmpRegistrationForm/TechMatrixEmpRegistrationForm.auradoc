@@ -1,0 +1,11 @@
+<aura:documentation>
+	<aura:description>Tech Matrix Employee Registration Component is used to capture the 
+    information about the Employee of Tech Matrix..</aura:description>
+    
+    
+	<aura:example name="myComponent" ref="c:TechMatrixEmpRegistrationForm" 
+                label="Tech Matrix Employee Registaration Form">
+				This component is used to store the information of Tech Matrix's Employees
+	</aura:example>
+
+</aura:documentation>

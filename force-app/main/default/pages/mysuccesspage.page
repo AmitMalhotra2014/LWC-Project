@@ -1,0 +1,5 @@
+<apex:page >
+ 
+  <h1>Congratulations your record(s) has been saved/updated Successfully..</h1>
+
+</apex:page>

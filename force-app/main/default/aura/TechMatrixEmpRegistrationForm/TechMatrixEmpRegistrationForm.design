@@ -1,0 +1,6 @@
+<design:component>
+	<design:attribute label="pageHeading Label" name="pageHeading"
+                      datasource="Tech Matrix Employee Registration Form,
+                                  CTS Employee Registration Form,
+                                  TCS Employee Registration Form"/>
+</design:component>

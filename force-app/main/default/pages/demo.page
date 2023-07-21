@@ -1,0 +1,9 @@
+<apex:page >
+
+    <apex:pageBlock >
+    
+        <apex:image url="{!$Resource.myresource}" style="width:10%"/>
+    
+    </apex:pageBlock>
+
+</apex:page>
